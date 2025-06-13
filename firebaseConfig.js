@@ -4,7 +4,6 @@ import { getAuth } from 'firebase/auth';
 
 // Replace with your Firebase project credentials
 const firebaseConfig = {
-    apiKey: "AIzaSyA_M5VJQB_Or6V78UAJ1Jl1CewDofab2tU",
     authDomain: "hoohacks25-d032a.firebaseapp.com",
     projectId: "hoohacks25-d032a",
     storageBucket: "hoohacks25-d032a.firebasestorage.app",
